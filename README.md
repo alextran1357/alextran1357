@@ -34,12 +34,12 @@ recommendations.
 
 [View Project](https://github.com/alextran1357/site_speed_recommendation)
 
-## 🔭 I’m currently interested in working with reinforcement learning!
+
 
 ## 📫 How to reach me: alex98tran@gmail.com
 <!--
 **alextran1357/alextran1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 🔭 I’m currently interested in working with reinforcement learning!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
